@@ -10,7 +10,7 @@
 <div align="center">
 <img  src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExM25sb3VqbXZxZjhhN2U4cXdlamw5dGxyc3JqcDBwdGdzbThvbXJpeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FspLvJQlQACXu/giphy.gif"  />
 
-🌱 I’m currently learning **AI/ML using Python & Spring Boot**
+🌱 I’m currently learning **Spring Boot**
 
 📫 How to reach me **officialjaimin345@gmail.com**
 
