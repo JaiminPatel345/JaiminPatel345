@@ -31,5 +31,5 @@
 <h2 align="center">MY CONTRIBUTIONS</h2>
 <br/>
 <div align="center">
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/JaiminPatel345/JaiminPatel345/cc9e22060d078430cf08c5f33b4aa5c328c3bf13/github-user-contribution.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/JaiminPatel345/JaiminPatel345/b00448202e866a6e6b081d341e35852265f76631/github-user-contribution.svg" />
 </div>
