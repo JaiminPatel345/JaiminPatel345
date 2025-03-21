@@ -8,13 +8,12 @@
 
 ### About me:
 
-- ✨ I study: React Native & Spring Boot 🍃
-- 🤔 I'm currently working on Abhinavam 🎨
+- ✨ I learning: React Native & Spring Boot 🍃
 - 😄 Fun fact: I'm a Chess Player ♟️
 - 🤖 I'm currently working with [PiDPeN](https://pidpen.com/)
 - 📫 How to reach me: [Email](mailto:officialjaimin345@gmail.com)
-- 👁️ Show my [Portfolio](https://jaimin-detroja.vercel.app/)
-- 💬 Ask me about `Frontend` | `Backend` | `DSA` 
+- 👁️ Show my [Portfolio](https://portfolio.jaimin-detroja.tech/)
+- 💬 Ask me about `Backend` | `Frontend` | `DSA` 
 
 ---
 
@@ -48,8 +47,7 @@
   <img width="440px" src="https://github-readme-stats.vercel.app/api?username=jaiminpatel345&show_icons=true&theme=onedark" alt="Jaimin's GitHub stats">
   <img width="385px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=jaiminpatel345&layout=compact&theme=onedark" alt="Top Languages" />
   
-  <img width="440px" src="https://github-readme-activity-graph.vercel.app/graph?username=jaiminpatel345&theme=github" alt="Activity Graph">
-  <img width="385px" src="https://github-readme-streak-stats.herokuapp.com/?user=jaiminpatel345&theme=onedark" alt="GitHub Streak" />
+  <img width="440px" height="280px" src="https://github-readme-activity-graph.vercel.app/graph?username=jaiminpatel345&theme=github" alt="Activity Graph">
 </div>
 
 ---
@@ -57,12 +55,6 @@
 ### MY CONTRIBUTIONS
 
 ![Snake animation](https://raw.githubusercontent.com/jaiminpatel345/jaiminpatel345/output/github-contribution-grid-snake-dark.svg)
-
----
-
-## My Rewards
-[![Trophies](https://github-profile-trophy.vercel.app/?username=jaiminpatel345&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
 
 ---
 
