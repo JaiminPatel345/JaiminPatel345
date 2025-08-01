@@ -2,7 +2,7 @@
 
   <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=jaiminpatel345.myRepo" alt="visitor badge"/>
 
-<h3 align="center">Aspiring Backend First full stack <i>Web & App DEV</i></h3>
+<h3 align="center">Full stack <i>Web & App DEV</i></h3>
 
 ---
 
@@ -16,36 +16,10 @@
 
 ---
 
-### Languages:
-
-<div>
-  <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" />
-  <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeScript" />
-  <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" />
-  <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" />
-
-
-
-
-### Tools:
-  <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" alt="Node.js" />
-  <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React" />
-  <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" alt="Express" /> 
-  <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" alt="Redux" /> &nbsp &nbsp 
-
-  <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" alt="Numpy" />
-  <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" alt="Pandas" />
-  <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" alt="Tensorflow" /> &nbsp &nbsp 
-
-  <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" alt="MongoDB" />
-  <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" /> &nbsp &nbsp 
-
-
-  <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" />
-  <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="Docker" />
-  <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="Linux" />
-  <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" alt="Azure" />
-</div>
+### Worked with:
+[![My Skills](https://skillicons.dev/icons?i=ts,js,java,python)](https://skillicons.dev)
+<br />
+[![My Skills](https://skillicons.dev/icons?i=nodejs,expressjs,react,mongodb,postgresql,redis,tailwindcss,redux,opencv,git,azure,docker)](https://skillicons.dev)
 
 ---
 
