@@ -12,7 +12,7 @@
 - 😄 Fun fact: When I'm not debugging code, I'm calculating my next chess move ♟️️
 - 📫 How to reach me: [officialjaimin345@gmail.com](mailto:officialjaimin345@gmail.com)
 - 👁️ Show my [portfolio](https://jaimin-detroja.vercel.app/)
-- 💬 Ask me about `Backend` | `ML` | `DSA`
+- 💬 Ask me about `Backend` | `System Design` | `Problem Solving` | `DSA`
 
 ---
 
