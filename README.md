@@ -27,13 +27,10 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jaiminpatel345&theme=dracula)
 
-![Contribution Graph](./profile-3d-contrib/profile-south-season-animate.svg)
+![Contribution Graph](./profile-3d-contrib/profile-green-animate.svg)
 
 ---
 
-### MY CONTRIBUTIONS
-
-![Snake animation](https://raw.githubusercontent.com/jaiminpatel345/jaiminpatel345/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
