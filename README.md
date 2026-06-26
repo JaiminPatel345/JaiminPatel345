@@ -26,11 +26,11 @@
 ### My Journey
 
 <div align="center">
-  <img width="440px" src="https://github-readme-stats.vercel.app/api?username=jaiminpatel345&show_icons=true&theme=onedark" alt="Jaimin's GitHub stats">
-  <img width="385px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=jaiminpatel345&layout=compact&theme=onedark" alt="Top Languages" />
-  
+  <img width="440px" src="https://github-readme-stats.vercel.app/api?username=jaiminpatel345&show_icons=true&theme=onedark" alt="Jaimin's GitHub stats"> 
   <img width="440px" height="280px" src="https://github-readme-activity-graph.vercel.app/graph?username=jaiminpatel345&theme=github" alt="Activity Graph">
 </div>
+
+![Contribution Graph](./profile-3d-contrib/profile-south-season-animate.svg)
 
 ---
 
