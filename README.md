@@ -2,33 +2,30 @@
 
   <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=jaiminpatel345.myRepo" alt="visitor badge"/>
 
-<h3 align="center">Full stack <i>Web & App DEV</i></h3>
+<h3 align="center">Software Developer</h3>
 
 ---
 
 ### About me:
 
-- ✨ I'm learning: Machine Learning 🤖🧠👨‍💻
+- ✨ I'm Working on: System Design, Blockchain, Backend 🧠👨‍💻
 - 😄 Fun fact: When I'm not debugging code, I'm calculating my next chess move ♟️️
 - 📫 How to reach me: [officialjaimin345@gmail.com](mailto:officialjaimin345@gmail.com)
-- 👁️ Show my [portfolio.jaimin-detroja.tech](https://portfolio.jaimin-detroja.tech/)
-- 💬 Ask me about `Backend` | `Frontend` | `DSA` | `ML`
+- 👁️ Show my [portfolio](https://jaimin-detroja.vercel.app/)
+- 💬 Ask me about `Backend` | `System Design` | `Problem Solving` | `DSA`
 
 ---
 
 ### Worked with:
-[![My Skills](https://skillicons.dev/icons?i=ts,js,java,python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,js,java,python,go)](https://skillicons.dev)
 <br />
-[![My Skills](https://skillicons.dev/icons?i=nodejs,expressjs,react,mongodb,postgresql,redis,tailwindcss,redux,opencv,git,azure,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,expressjs,react,mongodb,postgresql,redis,tailwindcss,redux,opencv,tensorflow,git,docker,azure)](https://skillicons.dev)
 
 ---
 
 ### My Journey
 
-<div align="center">
-  <img width="440px" src="https://github-readme-stats.vercel.app/api?username=jaiminpatel345&show_icons=true&theme=onedark" alt="Jaimin's GitHub stats"> 
-  <img width="440px" height="280px" src="https://github-readme-activity-graph.vercel.app/graph?username=jaiminpatel345&theme=github" alt="Activity Graph">
-</div>
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jaiminpatel345&theme=dracula)
 
 ![Contribution Graph](./profile-3d-contrib/profile-south-season-animate.svg)
 
@@ -43,3 +40,11 @@
 <p align="center">
   <em><b>Connect with me on <a href="https://www.linkedin.com/in/jaimindetroja345">LinkedIn</a></b> :)</em>
 </p>
+
+<br>
+
+<p align='center'>
+<img src="https://github.com/user-attachments/assets/59e19005-111a-4333-a687-b1d428ef574c" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img>
+</p>
+
+<br>
