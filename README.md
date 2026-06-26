@@ -40,3 +40,11 @@
 <p align="center">
   <em><b>Connect with me on <a href="https://www.linkedin.com/in/jaimindetroja345">LinkedIn</a></b> :)</em>
 </p>
+
+<br>
+
+<p align='center'>
+<img src="https://github.com/user-attachments/assets/59e19005-111a-4333-a687-b1d428ef574c" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img>
+</p>
+
+<br>
