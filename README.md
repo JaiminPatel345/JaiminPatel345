@@ -17,9 +17,9 @@
 ---
 
 ### Worked with:
-[![My Skills](https://skillicons.dev/icons?i=ts,js,java,python,go)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,js,java,go,bash)](https://skillicons.dev)
 <br />
-[![My Skills](https://skillicons.dev/icons?i=nodejs,expressjs,react,mongodb,postgresql,redis,tailwindcss,redux,opencv,tensorflow,git,docker,azure)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,spring,postgresql,mongodb,redis,git,docker,k8s,aws)](https://skillicons.dev)
 
 ---
 
