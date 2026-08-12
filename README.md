@@ -23,10 +23,7 @@
 
 ---
 
-### My Journey
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jaiminpatel345&theme=dracula)
-
+### Contributions 
 ![Contribution Graph](./profile-3d-contrib/profile-green-animate.svg)
 
 ---
